@@ -16,5 +16,4 @@ Tecnologias que eu estou aprendendo:
 🎓 Graduada em Psicologia | 💻 Entusiasta de Tecnologia
 ****
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-silva-3a79a01a0/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sciencebydata_/)
