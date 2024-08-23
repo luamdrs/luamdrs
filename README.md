@@ -11,10 +11,6 @@
 
 #
 
-<div class="centered-container">
-        <h3>My contacts</h3>
-    </div>
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/luana-silva-3a79a01a0//)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/luamdrs/)
 
@@ -44,7 +40,7 @@
 
 #
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">Stack I'm learning ~</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt="python logo" />
