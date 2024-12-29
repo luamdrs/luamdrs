@@ -1,50 +1,43 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C25B0&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9ED7FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Luana+Silva.;Eu+tenho+30+anos.;Resido+na+cidade+de+João+Pessoa,+PB.;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
+
+
+<br clear="both">
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD8DF2&width=435&lines=Welcome+to+my+profile!+" alt="Typing SVG">
-  </a>
+  <img src="https://streak-stats.demolab.com?user=luamdrs&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=495&card_height=195&background=EBE8E800&currStreakLabel=70A5FD&currStreakNum=70A5FD&sideNums=592BCE&sideLabels=FFFFFF&ring=592BCE&dates=AE96FD&fire=70A5FD" alt="GitHub Streak" />
 </div>
 
-# 
-
-<p align="center">Sou graduada em Psicologia e paralelamente à minha formação, nutro um forte interesse pela área da tecnologia. Acredito no poder transformador da tecnologia para criar soluções inovadoras que melhoram a vida das pessoas. Estou particularmente fascinada pela interseção entre psicologia e tecnologia, especialmente em áreas como inteligência artificial, desenvolvimento de software e ciência de dados.</p>
-
-#
-
-<div style="text-align: center;" align="center">
-  <h3>~ My GitHub Stats ~</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luamdrs&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/luamdrs/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luamdrs&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img style="width: 49%; min-width: 300px;" height="195px" src="https://github-readme-stats.vercel.app/api?username=luamdrs&show_icons=true&count_private=true&hide_border=true&title_color=592BCE&icon_color=592BCE&text_color=ffffff&bg_color=0d1117" alt="Luana Silva github stats" /> 
+  <img style="width: 49%; min-width: 300px;" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamdrs&layout=compact&hide_border=true&title_color=592BCE&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 
-#
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luamdrs&bg_color=0d1117&color=592BCE&line=774ede&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luamdrs/luamdrs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luamdrs/luamdrs/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luamdrs/luamdrs/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luamdrs&theme=tokyonight&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
+</p>
 
-#
+---
 
-<h3 align="left">Stack I'm learning ~</h3>
+### Programming Languages:
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt="python logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-</div>
 
-#
+ 
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/luana-silva-3a79a01a0//)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/luamdrs/)
+### Other Knowledge:
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C25B0&height=120&section=footer"/>
